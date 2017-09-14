@@ -1,4 +1,4 @@
-# ypages
+# YPages
 
 > A Vue.js project
 

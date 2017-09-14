@@ -1,6 +1,6 @@
 {
-  "name": "ypages",
-  "short_name": "ypages",
+  "name": "YPages",
+  "short_name": "YPages",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
